@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+ <html>
+
+ <head>
+  <title>Cassicakes</title>
+  <link rel="stylesheet" typ="text/css" href="css/main.css"
+ </head>
+ <body>
+
+  <h1>
+  "CassiCakes"
+  </h1>
+  <p>
+  "Hi, I'm Cassie. Welcome to my world. Here you will find my beauty favs and how tos, personal music endevours and favorites, recipies, and many other fun things.
+  </p>
+  <p id="slogan"> Rock and Roll never looked so good or tasted so sweet.</p>
+  <p id="Check it out!"> </p>
+  <ul>
+   <li>Beauty</li>
+   <li>Recipies</li>
+   <li>Music</li>
+   <li>Misc Fun</li>
+   <li>Blog</li>
+   <li>Store</li>
+  </ul>
+  <p>Contact Me!<a href="mailto:aguiar.cas@gmail.com?=what up awesome!"></a>
+  </p>
+ 
+ </body>
+
+ </html>
+
+
+  
+
